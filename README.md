@@ -4,6 +4,7 @@ Just for fun to making Instagram Clone, maybe you all like it. My pleasure to he
 - HTML
 - CSS
 - JavaScript
+- cdnjs
 
 ## Features
 
