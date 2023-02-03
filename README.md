@@ -1,6 +1,6 @@
 # Instagram Clone
 
-Just for fun to making Instagram Clone, maybe you all like it. My pleasure to help you all. This application is made using:
+Just for fun to making Instagram Clone, maybe you all like it. My pleasure to help you all. This clone was made using:
 - HTML
 - CSS
 - JavaScript
