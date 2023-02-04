@@ -5,6 +5,7 @@ Just for fun to making Instagram Clone, maybe you all like it. My pleasure to he
 - CSS
 - JavaScript
 - cdnjs
+- Photos Source (These photos owned by someone, sorry I forgot who has these photos. I hope those who have these photos understand it)
 
 ## Features
 
